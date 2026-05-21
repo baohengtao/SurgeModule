@@ -1,1 +1,1 @@
-init
+Bear Pro: https://github.com/baohengtao/SurgeModule/raw/main/sgmodules/bear.sgmodule
