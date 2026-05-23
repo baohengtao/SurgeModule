@@ -1,1 +1,2 @@
-Bear Pro: https://github.com/baohengtao/SurgeModule/raw/main/sgmodules/bear.sgmodule
+- Bear Pro: https://github.com/baohengtao/SurgeModule/raw/main/sgmodules/bear.sgmodule
+- Ad Block: https://github.com/baohengtao/SurgeModule/raw/main/sgmodules/adblock.sgmodule
