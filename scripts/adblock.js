@@ -4,7 +4,7 @@
  * =========================
  */
 
-const scriptName = "去除APP启动广告";
+const scriptName = "MuYio Ad Block";
 const $ = MagicJS(scriptName, "INFO");
 
 
