@@ -1,0 +1,12 @@
+#!name=AdBlock
+#!desc=广告屏蔽
+#!author=MuYio
+#!homepage=https://github.com/baohengtao/SurgeModule
+#!category=MuYio
+
+[Script]
+#丰巢开屏广告
+fcbox_ads = type=http-response,pattern=https://rtm\.fcbox\.com/rtsWeb/api/resource/ad/queryMultiAds,requires-body=1,max-size=0,script-path=https://github.com/baohengtao/SurgeModule/raw/main/scripts/adblock.js
+
+[MITM]
+hostname = %APPEND% *.fcbox.com
