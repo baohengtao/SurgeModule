@@ -1,5 +1,7 @@
 #!name=Bear Pro Unlock
 #!desc=无需一直打开
+#!homepage=https://github.com/baohengtao/SurgeModule
+#!category=MuYio
 
 [Script]
 Bear.js = requires-body=1,max-size=0,script-path=https://github.com/baohengtao/SurgeModule/raw/main/scripts/bear.js, type=http-response, pattern=^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt
